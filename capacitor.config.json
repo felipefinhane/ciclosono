@@ -1,0 +1,6 @@
+{
+  "appId": "com.fihane.app",
+  "appName": "Calculadora de Ciclo do Sono",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
